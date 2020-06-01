@@ -67,11 +67,19 @@ namespace ExcSobrecargaDeOperadores.Q2 {
         }
         public bool opMaior (Fracao obj) 
         {
-            return ((this.numerador / this.denominador) > (obj.numerador / obj.denominador));
+            double num1 = this.numerador;
+            double den1 = this.denominador;
+            double num2 = obj.numerador;
+            double den2 = obj.denominador;
+            return ((num1/den1) > (num2/den2));
         }
         public bool opMenor (Fracao obj) 
         {
-            return ((this.numerador / this.denominador) < (obj.numerador / obj.denominador));
+            double num1 = this.numerador;
+            double den1 = this.denominador;
+            double num2 = obj.numerador;
+            double den2 = obj.denominador;
+            return ((num1/den1) < (num2/den2));
         }
 
         public static Fracao operator + (Fracao obj1, Fracao obj2) //Sobrecarga do operador +
