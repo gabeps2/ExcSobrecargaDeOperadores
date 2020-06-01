@@ -1,0 +1,13 @@
+D:\Users\Gabriel\Google Drive PUC\Sistemas de Informação\3º Semestre\POO\Exercícios\ExcSobrecargaDeOperadores\bin\Debug\netcoreapp3.1\ExcSobrecargaDeOperadores.exe
+D:\Users\Gabriel\Google Drive PUC\Sistemas de Informação\3º Semestre\POO\Exercícios\ExcSobrecargaDeOperadores\bin\Debug\netcoreapp3.1\ExcSobrecargaDeOperadores.deps.json
+D:\Users\Gabriel\Google Drive PUC\Sistemas de Informação\3º Semestre\POO\Exercícios\ExcSobrecargaDeOperadores\bin\Debug\netcoreapp3.1\ExcSobrecargaDeOperadores.runtimeconfig.json
+D:\Users\Gabriel\Google Drive PUC\Sistemas de Informação\3º Semestre\POO\Exercícios\ExcSobrecargaDeOperadores\bin\Debug\netcoreapp3.1\ExcSobrecargaDeOperadores.runtimeconfig.dev.json
+D:\Users\Gabriel\Google Drive PUC\Sistemas de Informação\3º Semestre\POO\Exercícios\ExcSobrecargaDeOperadores\bin\Debug\netcoreapp3.1\ExcSobrecargaDeOperadores.dll
+D:\Users\Gabriel\Google Drive PUC\Sistemas de Informação\3º Semestre\POO\Exercícios\ExcSobrecargaDeOperadores\bin\Debug\netcoreapp3.1\ExcSobrecargaDeOperadores.pdb
+D:\Users\Gabriel\Google Drive PUC\Sistemas de Informação\3º Semestre\POO\Exercícios\ExcSobrecargaDeOperadores\obj\Debug\netcoreapp3.1\ExcSobrecargaDeOperadores.csprojAssemblyReference.cache
+D:\Users\Gabriel\Google Drive PUC\Sistemas de Informação\3º Semestre\POO\Exercícios\ExcSobrecargaDeOperadores\obj\Debug\netcoreapp3.1\ExcSobrecargaDeOperadores.csproj.CoreCompileInputs.cache
+D:\Users\Gabriel\Google Drive PUC\Sistemas de Informação\3º Semestre\POO\Exercícios\ExcSobrecargaDeOperadores\obj\Debug\netcoreapp3.1\ExcSobrecargaDeOperadores.AssemblyInfoInputs.cache
+D:\Users\Gabriel\Google Drive PUC\Sistemas de Informação\3º Semestre\POO\Exercícios\ExcSobrecargaDeOperadores\obj\Debug\netcoreapp3.1\ExcSobrecargaDeOperadores.AssemblyInfo.cs
+D:\Users\Gabriel\Google Drive PUC\Sistemas de Informação\3º Semestre\POO\Exercícios\ExcSobrecargaDeOperadores\obj\Debug\netcoreapp3.1\ExcSobrecargaDeOperadores.dll
+D:\Users\Gabriel\Google Drive PUC\Sistemas de Informação\3º Semestre\POO\Exercícios\ExcSobrecargaDeOperadores\obj\Debug\netcoreapp3.1\ExcSobrecargaDeOperadores.pdb
+D:\Users\Gabriel\Google Drive PUC\Sistemas de Informação\3º Semestre\POO\Exercícios\ExcSobrecargaDeOperadores\obj\Debug\netcoreapp3.1\ExcSobrecargaDeOperadores.genruntimeconfig.cache
